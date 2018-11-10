@@ -1,0 +1,11 @@
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.csprojAssemblyReference.cache
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.csproj.CoreCompileInputs.cache
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.AssemblyInfoInputs.cache
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.AssemblyInfo.cs
+/Users/negreteo/Code/CSharpGenerics/bin/Debug/netcoreapp2.1/CSharpGenerics.deps.json
+/Users/negreteo/Code/CSharpGenerics/bin/Debug/netcoreapp2.1/CSharpGenerics.runtimeconfig.json
+/Users/negreteo/Code/CSharpGenerics/bin/Debug/netcoreapp2.1/CSharpGenerics.runtimeconfig.dev.json
+/Users/negreteo/Code/CSharpGenerics/bin/Debug/netcoreapp2.1/CSharpGenerics.dll
+/Users/negreteo/Code/CSharpGenerics/bin/Debug/netcoreapp2.1/CSharpGenerics.pdb
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.dll
+/Users/negreteo/Code/CSharpGenerics/obj/Debug/netcoreapp2.1/CSharpGenerics.pdb
